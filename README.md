@@ -1,4 +1,4 @@
-# jingqiluu.github.io
+# lu-jingqi.github.io
 
 This repository only redirects to the live site:
 
